@@ -1,6 +1,6 @@
 # Book Search App using Flask
 
-[**Demo of live application**](http://book-search-app-anuradha.herokuapp.com/s) 
+[**Demo of live application**](http://book-search-app-anuradha.herokuapp.com/) 
 
 
 This project is based on the assignment of 
